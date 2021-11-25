@@ -2,6 +2,7 @@
 
 ## About the project 
 This project is made for the "Introduction to Data Science" subject as a mandatory project to finish the class successfully.
+Project number is D8.
 
 ### Team members
 * Hannaliina Rakovitš
