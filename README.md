@@ -11,6 +11,7 @@ Project number is D8.
 
 ### Data
 Data is provided by Tartu City Council.
+Weather data is from https://meteo.physic.ut.ee/
 
 ### Project goals
 * Goal 1: Find out differences of patterns between different years
